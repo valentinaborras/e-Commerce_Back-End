@@ -1,0 +1,14 @@
+ver el tema del id de los seeders y de los nuevos usuarios y productos
+
+adminController.js:
+el admin tiene avatar? el metodo store no lo considera
+el update incompleto
+
+productController.js
+tenia mal escrito desccription
+el update incompleto
+
+
+
+
+
